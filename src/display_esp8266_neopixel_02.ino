@@ -4,8 +4,8 @@
 
 // Bibliotecas
 #include <Adafruit_NeoPixel.h>
-#include <Wire.h>
-#include <RTClib.h>
+//#include <Wire.h>
+//#include <RTClib.h>
 #define  verde  0x00FF00
 #define rojo  0xFF0000
 
